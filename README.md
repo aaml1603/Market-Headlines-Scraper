@@ -1,4 +1,4 @@
-# This is a python script that scrapes latest market headlines from finviz.com and makes the data usable by writing it to a json file
+## This is a python script that scrapes latest market headlines from finviz.com and makes the data usable by writing it to a json file
 
 ## Instructions:
 
